@@ -7,4 +7,4 @@ advisors:
     - Adam Perer
 ---
 
-I enjoy video game design!
+I enjoy video game design and soccer!
